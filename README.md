@@ -23,6 +23,6 @@
   ##
  
 <div> 
-  <a href="discord.gg/deadbear"><img width="20px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
+  <a href = "https://discord.com/invite/deadbear"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
  
 </div>
