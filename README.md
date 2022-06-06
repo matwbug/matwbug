@@ -23,7 +23,6 @@
   ##
  
 <div> 
-  <a href = "mailto:matheusmotta.contato@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "discord.gg/deadbear"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" target="_blank"></a>
  
 </div>
